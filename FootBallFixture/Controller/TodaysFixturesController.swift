@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TodaysFixturesController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
