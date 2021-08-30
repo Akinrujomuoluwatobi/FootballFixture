@@ -14,3 +14,8 @@ This is an assessment project implementing MVVM architecture for getting match f
 3.  [Alamofire](targetURL "https://cocoapods.org/pods/Alamofire") : Alamofire is an HTTP networking library written in Swift.
 4.  [AlamofireObjectMapper](targetURL "https://cocoapods.org/pods/AlamofireObjectMapper") : An extension to Alamofire which automatically converts JSON response data into swift objects using ObjectMapper.
 5.  [FootballData](targetURL "https://www.football-data.org/client/login") : An open source movie listing
+
+##  How to Access Codebase
+1.  Clone the repository
+2.  Do "git install" to install dependencies 
+3.  Run the app upon successful build of the project
